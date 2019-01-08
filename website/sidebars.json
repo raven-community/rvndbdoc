@@ -1,0 +1,11 @@
+{
+  "docs": {
+    "Introduction": ["rvndb"],
+    "Components": ["crawler", "indexer", "query_v3"],
+    "Howto": ["quickstart_v3", "intro_v3", "install"],
+    "Tutorials": ["tutorial_v3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
